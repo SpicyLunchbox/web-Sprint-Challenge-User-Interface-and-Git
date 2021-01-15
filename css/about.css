@@ -70,11 +70,43 @@ header nav a{
 .container-about-page{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
+.first-body{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
 
+.second-body{
+    margin: 20px;
+    display: flex;
+}
 
+.third-body{
+    margin: 20px;
+    display: flex;
+}
 
+.fourth-body{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
 
+.strategy{
+    margin: 20px;
+}
 
+.how-we-work{
+    margin: 20px;
+}
+
+.places-we-work{
+    margin: 20px;
+}
+
+.collaboration{
+    margin: 20px;
+}
